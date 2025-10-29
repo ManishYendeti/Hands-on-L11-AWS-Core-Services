@@ -25,7 +25,7 @@ The dataset was uploaded to an Amazon S3 bucket. A Glue crawler was then used to
 
 ---
 ### 1.Cloudwatch
-<img width="600" height="493" alt="image" src="https://github.com/user-attachments/assets/f6f4a68f-f8bc-42f7-9e2a-aad1b4f761b1" />
+![CloudWatch Logs Screenshot](https://github.com/user-attachments/assets/f6f4a68f-f8bc-42f7-9e2a-aad1b4f761b1)
 
 ### 2. IAM Role
 <img width="600" height="499" alt="image" src="https://github.com/user-attachments/assets/67b39bf2-bf0c-4273-b180-0a18a28c7ce2" />
